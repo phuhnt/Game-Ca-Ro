@@ -1,0 +1,10 @@
+F:\MyProject\MSTTTM\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+F:\MyProject\MSTTTM\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+F:\MyProject\MSTTTM\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+F:\MyProject\MSTTTM\GameCaro\GameCaro\obj\Debug\GameCaro.fmMain.resources
+F:\MyProject\MSTTTM\GameCaro\GameCaro\obj\Debug\GameCaro.fmMenu.resources
+F:\MyProject\MSTTTM\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+F:\MyProject\MSTTTM\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
+F:\MyProject\MSTTTM\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+F:\MyProject\MSTTTM\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+F:\MyProject\MSTTTM\GameCaro\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache

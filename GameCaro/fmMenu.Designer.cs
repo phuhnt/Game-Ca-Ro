@@ -30,7 +30,6 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(fmMenu));
             this.btnExit = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
             this.btnPvP = new System.Windows.Forms.Button();
             this.btnPvC = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -52,22 +51,6 @@
             this.btnExit.UseVisualStyleBackColor = false;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
-            // button3
-            // 
-            this.button3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.button3.BackColor = System.Drawing.Color.Orange;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
-            this.button3.ForeColor = System.Drawing.Color.White;
-            this.button3.Location = new System.Drawing.Point(363, 366);
-            this.button3.Margin = new System.Windows.Forms.Padding(4);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(187, 56);
-            this.button3.TabIndex = 2;
-            this.button3.Text = "Play Again!";
-            this.button3.UseVisualStyleBackColor = false;
-            // 
             // btnPvP
             // 
             this.btnPvP.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
@@ -76,7 +59,7 @@
             this.btnPvP.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPvP.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
             this.btnPvP.ForeColor = System.Drawing.Color.White;
-            this.btnPvP.Location = new System.Drawing.Point(363, 274);
+            this.btnPvP.Location = new System.Drawing.Point(363, 320);
             this.btnPvP.Margin = new System.Windows.Forms.Padding(4);
             this.btnPvP.Name = "btnPvP";
             this.btnPvP.Size = new System.Drawing.Size(187, 59);
@@ -112,7 +95,6 @@
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(913, 594);
             this.Controls.Add(this.btnExit);
-            this.Controls.Add(this.button3);
             this.Controls.Add(this.btnPvC);
             this.Controls.Add(this.btnPvP);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F);
@@ -131,7 +113,6 @@
         #endregion
 
         private System.Windows.Forms.Button btnExit;
-        private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button btnPvP;
         private System.Windows.Forms.Button btnPvC;
     }

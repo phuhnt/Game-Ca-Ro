@@ -111,5 +111,11 @@ namespace GameCaro
         {
             _chessCaro.Redo(gra);
         }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Show();
+        }
     }
 }
